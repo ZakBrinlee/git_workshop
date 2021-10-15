@@ -13,10 +13,6 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Zak's git workshop</a>
         </h1>
 
-        <p className="description">
-          Get started by editing <code>this page</code>
-        </p>
-
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
