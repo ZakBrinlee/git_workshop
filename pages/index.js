@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Git Workshop Wednesday</title>
+        <title>Git Workshop Wednesday in October</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
