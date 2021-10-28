@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Git Workshop</title>
+        <title>Git Workshop Wednesday</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Git Workshop</a>
         </h1>
 
         <p className="description">
